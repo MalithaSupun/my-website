@@ -4,13 +4,13 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #d1a8a8;
 }
 
 /* Style for the header */
 header {
     background-color: #333;
-    color: white;
+    color: rgb(143, 113, 113);
     padding: 10px 0;
     text-align: center;
 }
@@ -27,14 +27,14 @@ nav {
 
 nav ul {
     list-style: none;
-    margin: 0;
-    padding: 0;
+    margin: 5;
+    padding: 5;
     text-align: center;
 }
 
 nav ul li {
     display: inline;
-    margin-right: 20px;
+    margin-right: 25px;
 }
 
 nav ul li a {
@@ -55,13 +55,13 @@ section {
 }
 
 section h2 {
-    margin-top: 0;
+    margin-top: 10;
 }
 
 /* Style for the footer */
 footer {
     background-color: #333;
-    color: white;
+    color: rgb(156, 31, 31);
     text-align: center;
     padding: 10px 0;
     position: fixed;
